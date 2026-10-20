@@ -1,6 +1,6 @@
 {
   "name": "my-trading-bot",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "private": true,
   "engines": {
     "node": ">=22"
@@ -65,8 +65,8 @@
     "yup": "^1.4.0"
   },
   "overrides": {
-    "react": "$react",
-    "react-dom": "$react-dom"
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@babel/core": "^7.29.6",
